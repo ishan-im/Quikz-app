@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "254700321336",
+    "project_id": "quikz-1fe3c",
+    "storage_bucket": "quikz-1fe3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254700321336:android:cf95964c1d1c055d30c4cd",
+        "android_client_info": {
+          "package_name": "com.quikz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254700321336-53k3ieuubhg00rlquuq7bobvle8qisu4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quikz",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "254700321336-dtgkc8tet1o4duveato6om4a3qt5ggbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeYF9hXrOx-D_KquXSuetJ9Iy3vdj2mxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254700321336-dtgkc8tet1o4duveato6om4a3qt5ggbs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
